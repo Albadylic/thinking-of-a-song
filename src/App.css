@@ -16,3 +16,16 @@
 .App-link {
   color: #61dafb;
 }
+
+footer {
+  position: absolute;
+  width: 100vw;
+  text-align: center;
+  bottom: 0;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
